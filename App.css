@@ -1,0 +1,62 @@
+body{
+ 
+  background-color: white;
+  
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+
+}
+tr:hover { 
+    background-color: #98fb98;
+    color: #551a8b;
+}
+
+.container {
+  
+  position: relative;
+  margin: auto;
+    width: 400px;
+    height: 400px;	
+
+}
+
+div.App {
+	margin: auto;
+	padding: 10px;	
+	width: 600px;
+    height: 600px;
+    overflow: auto;
+    background-color: #ccbadc;
+   
+
+}
+
+div.try {
+	margin: auto;
+	padding: 10px;
+    width:250px;
+    height: 500px;
+    overflow: auto;
+
+}
+
+.ch1{
+	margin: auto;
+	padding: 10px;
+    width:450px;
+    height: 400px;
+   overflow: auto;
+
+}
+
+.ch{
+	margin: auto;
+	padding: 10px;
+
+}
+
+
+
